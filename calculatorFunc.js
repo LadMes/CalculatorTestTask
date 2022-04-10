@@ -21,15 +21,15 @@ function sum(a, b) {
   return a + b;  
 }
 
-function subtraction(a, b, isRoman) {
+function subtraction(a, b) {
   return a - b;
 }
 
-function multiplication(a, b, isRoman) {
+function multiplication(a, b) {
   return a * b;
 }
 
-function division(a, b, isRoman) {
+function division(a, b) {
   return Math.floor(a / b);
 }
 
